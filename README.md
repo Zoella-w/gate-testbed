@@ -1,6 +1,6 @@
 # gate-testbed
 
-**禾赛 landing Capstone（门禁系统）的试验田仓库。不是真项目，别当代码看。**
+** landing Capstone（门禁系统）的试验田仓库。不是真项目，别当代码看。**
 
 ## 这个仓库是干什么的
 
